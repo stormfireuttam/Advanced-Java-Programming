@@ -107,7 +107,7 @@ class InstanceOfDemo {
 }
 ```
 
-**Output : **
+**Output :**
 
 ```
 true
