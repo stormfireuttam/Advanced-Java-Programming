@@ -42,4 +42,3 @@ Java supports Dynamic Polymorphism with method overriding using instance methods
 
 - Upcasting is changing type by moving up the inheritance hierarchy. This is always safe because it's always true that a SubType IS-A SuperType.
 - Downcasting is changing type by moving down the inheritance hierarchy. This is NOT always safe, because it's NOT always true that a SuperType IS-A SubType. Therefore, an explicit cast is required when downcasting.
-- 
